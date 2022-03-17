@@ -16,6 +16,7 @@
 		933B23F327E2C6BC00C23E7C /* ToDo_ListTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 933B23F227E2C6BC00C23E7C /* ToDo_ListTests.swift */; };
 		933B23FD27E2C6BC00C23E7C /* ToDo_ListUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 933B23FC27E2C6BC00C23E7C /* ToDo_ListUITests.swift */; };
 		933B23FF27E2C6BC00C23E7C /* ToDo_ListUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 933B23FE27E2C6BC00C23E7C /* ToDo_ListUITestsLaunchTests.swift */; };
+		933B240E27E2E40900C23E7C /* ToDoDetailTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 933B240D27E2E40900C23E7C /* ToDoDetailTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		933B23F827E2C6BC00C23E7C /* ToDo_ListUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ToDo_ListUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		933B23FC27E2C6BC00C23E7C /* ToDo_ListUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDo_ListUITests.swift; sourceTree = "<group>"; };
 		933B23FE27E2C6BC00C23E7C /* ToDo_ListUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDo_ListUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		933B240D27E2E40900C23E7C /* ToDoDetailTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoDetailTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				933B23DB27E2C6B800C23E7C /* AppDelegate.swift */,
 				933B23DD27E2C6B800C23E7C /* SceneDelegate.swift */,
 				933B23DF27E2C6B800C23E7C /* ToDoListViewController.swift */,
+				933B240D27E2E40900C23E7C /* ToDoDetailTableViewController.swift */,
 				933B23E127E2C6B800C23E7C /* Main.storyboard */,
 				933B23E427E2C6BC00C23E7C /* Assets.xcassets */,
 				933B23E627E2C6BC00C23E7C /* LaunchScreen.storyboard */,
@@ -260,6 +263,7 @@
 			files = (
 				933B23E027E2C6B800C23E7C /* ToDoListViewController.swift in Sources */,
 				933B23DC27E2C6B800C23E7C /* AppDelegate.swift in Sources */,
+				933B240E27E2E40900C23E7C /* ToDoDetailTableViewController.swift in Sources */,
 				933B23DE27E2C6B800C23E7C /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
