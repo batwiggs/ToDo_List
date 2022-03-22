@@ -17,6 +17,7 @@
 		933B23FD27E2C6BC00C23E7C /* ToDo_ListUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 933B23FC27E2C6BC00C23E7C /* ToDo_ListUITests.swift */; };
 		933B23FF27E2C6BC00C23E7C /* ToDo_ListUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 933B23FE27E2C6BC00C23E7C /* ToDo_ListUITestsLaunchTests.swift */; };
 		933B240E27E2E40900C23E7C /* ToDoDetailTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 933B240D27E2E40900C23E7C /* ToDoDetailTableViewController.swift */; };
+		934F48CD27E9866100EFCB2D /* ToDoItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 934F48CC27E9866100EFCB2D /* ToDoItem.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		933B23FC27E2C6BC00C23E7C /* ToDo_ListUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDo_ListUITests.swift; sourceTree = "<group>"; };
 		933B23FE27E2C6BC00C23E7C /* ToDo_ListUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDo_ListUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		933B240D27E2E40900C23E7C /* ToDoDetailTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoDetailTableViewController.swift; sourceTree = "<group>"; };
+		934F48CC27E9866100EFCB2D /* ToDoItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoItem.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 			children = (
 				933B23DB27E2C6B800C23E7C /* AppDelegate.swift */,
 				933B23DD27E2C6B800C23E7C /* SceneDelegate.swift */,
+				934F48CC27E9866100EFCB2D /* ToDoItem.swift */,
 				933B23DF27E2C6B800C23E7C /* ToDoListViewController.swift */,
 				933B240D27E2E40900C23E7C /* ToDoDetailTableViewController.swift */,
 				933B23E127E2C6B800C23E7C /* Main.storyboard */,
@@ -263,6 +266,7 @@
 			files = (
 				933B23E027E2C6B800C23E7C /* ToDoListViewController.swift in Sources */,
 				933B23DC27E2C6B800C23E7C /* AppDelegate.swift in Sources */,
+				934F48CD27E9866100EFCB2D /* ToDoItem.swift in Sources */,
 				933B240E27E2E40900C23E7C /* ToDoDetailTableViewController.swift in Sources */,
 				933B23DE27E2C6B800C23E7C /* SceneDelegate.swift in Sources */,
 			);
