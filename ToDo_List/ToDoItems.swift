@@ -38,7 +38,7 @@ class ToDoItems {
         }
         setNotifications()
     }
-   
+    
     
     func setNotifications() {
         guard itemsArray.count > 0 else {

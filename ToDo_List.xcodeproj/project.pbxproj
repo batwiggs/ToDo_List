@@ -21,6 +21,7 @@
 		933B23FF27E2C6BC00C23E7C /* ToDo_ListUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 933B23FE27E2C6BC00C23E7C /* ToDo_ListUITestsLaunchTests.swift */; };
 		933B240E27E2E40900C23E7C /* ToDoDetailTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 933B240D27E2E40900C23E7C /* ToDoDetailTableViewController.swift */; };
 		934F48CD27E9866100EFCB2D /* ToDoItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 934F48CC27E9866100EFCB2D /* ToDoItem.swift */; };
+		939EDD7327F3867100A65410 /* UiViewController+alert.swift in Sources */ = {isa = PBXBuildFile; fileRef = 939EDD7227F3867100A65410 /* UiViewController+alert.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -59,6 +60,7 @@
 		933B23FE27E2C6BC00C23E7C /* ToDo_ListUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDo_ListUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		933B240D27E2E40900C23E7C /* ToDoDetailTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoDetailTableViewController.swift; sourceTree = "<group>"; };
 		934F48CC27E9866100EFCB2D /* ToDoItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoItem.swift; sourceTree = "<group>"; };
+		939EDD7227F3867100A65410 /* UiViewController+alert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UiViewController+alert.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 				933B23DB27E2C6B800C23E7C /* AppDelegate.swift */,
 				933B23DD27E2C6B800C23E7C /* SceneDelegate.swift */,
 				9302724027F17A6E00A4DC57 /* LocalNotificationManager.swift */,
+				939EDD7227F3867100A65410 /* UiViewController+alert.swift */,
 				934F48CC27E9866100EFCB2D /* ToDoItem.swift */,
 				9302723E27F1676700A4DC57 /* ToDoItems.swift */,
 				933B23DF27E2C6B800C23E7C /* ToDoListViewController.swift */,
@@ -275,6 +278,7 @@
 			files = (
 				933B23E027E2C6B800C23E7C /* ToDoListViewController.swift in Sources */,
 				9302723F27F1676700A4DC57 /* ToDoItems.swift in Sources */,
+				939EDD7327F3867100A65410 /* UiViewController+alert.swift in Sources */,
 				933B23DC27E2C6B800C23E7C /* AppDelegate.swift in Sources */,
 				934F48CD27E9866100EFCB2D /* ToDoItem.swift in Sources */,
 				933B240E27E2E40900C23E7C /* ToDoDetailTableViewController.swift in Sources */,
